@@ -1,5 +1,3 @@
-# smartAgriAI
-
 # 🌱 SmartAgriAI: AI-Powered Smart Farming for Sustainable Agriculture
 
 A smart, low-cost AI and IoT-based decision support system that empowers smallholder farmers in rural Kenya with real-time insights to improve crop yields, save water, and adapt to climate change.
